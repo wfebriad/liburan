@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   let arrLove = [];
 
-  for (let i = 0; i < 50; i++) {
+  for (let i = 0; i < 40; i++) {
     arrLove.push(new Love());
   }
 
